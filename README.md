@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Luvo Spofana
-- 👀 I’m interested in FPL
-- 🌱 I’m currently learning C#, ASP .Net, and React.
+- 👀 I’m interested in building full-stack applications
+- 🌱 I’m currently learning Next.JS
