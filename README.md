@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Luvo Spofana
 - 👀 I’m interested in building full-stack applications
-- 🌱 I’m currently learning Next.JS
+- 🌱 I’m currently mastering Next.JS
